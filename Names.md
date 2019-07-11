@@ -2,3 +2,5 @@
 Add your name and link to your GitHub profile, like this: `[Your-Name](https://github.com/your-username)`
 1. [Praveen Kumar R](https://github.com/pbcpraveen)
 adding new line 
+2. Prathyush s (https://github.com/prathyush2510)
+
