@@ -1,6 +1,7 @@
 # Git and GitHub Tutorial
 Add your name and link to your GitHub profile, like this: `[Your-Name](https://github.com/your-username)`
-1. [Praveen Kumar R](https://github.com/pbcpraveen)
-adding new line 
-2. Prathyush s (https://github.com/prathyush2510)
-
+1. [GokhulNath T](https://github.com/Gokhulnath)
+2. [Mahesh Bharadwaj K](https://github.com/MaheshBharadwaj)
+3. [Shivanirudh](https://github.com/Shivanirudh)
+4. [Pavya](https://github.com/pavya55)
+5. [Prathyush S](https://github.com/prathyush2510)
